@@ -32,5 +32,10 @@
   "bugs": {
     "url": "https://github.com/adrianhajdin/project_3D_developer_portfolio/issues"
   },
-  "homepage": "https://github.com/adrianhajdin/project_3D_developer_portfolio#readme"
+  "homepage": "https://github.com/adrianhajdin/project_3D_developer_portfolio#readme",
+  "name": "portfolio",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
